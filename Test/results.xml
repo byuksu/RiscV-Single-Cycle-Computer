@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1717956183" />
+    <testcase name="Single_cycle_test" classname="RISC-V_Test" file="C:\Users\Msi\OneDrive\Belgeler\risc-v_test\Test\RISC-V_Test.py" lineno="208" time="1.5538139343261719" sim_time_ns="251000" ratio_time="161538.00300989632" />
+  </testsuite>
+</testsuites>
